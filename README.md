@@ -1,3 +1,3 @@
 # Tweety
 
-![Screenshot](Logo-Tweety.jpeg)
+![Screenshot](Logo-Tweety.png)
