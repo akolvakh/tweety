@@ -1,2 +1,2 @@
 # Tweety
-![Screenshot](Logo-Tweety.jpg)
+![Screenshot](Logo-Tweety.png)
